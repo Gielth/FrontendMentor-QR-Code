@@ -1,0 +1,48 @@
+body{
+    background: hsl(212, 45%, 89%);
+    display: flexbox;
+    object-position: center;
+    font-size: 15px;
+    width: fit-content;
+    margin: auto;
+}
+
+#QRcodeStructure {
+    display: flexbox;
+    object-position: center;
+    background: hsl(0, 0%, 100%);
+    border: 1px solid hsl(0, 0%, 100%);
+    border-radius: 15px;
+    width: 275px;
+    min-height: 375px;
+    margin-top: 50%;
+    margin-bottom: 50%;
+}
+
+.QRcodeimg{
+    border-radius: 10%;
+    width: 90%;
+    padding: 12px;
+}
+
+h1{
+    font-weight: 700;
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+    padding-top: 5%;
+    margin: 3px;
+}
+
+p{
+    font-weight: 400;
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+    padding: 5px;
+}
+
+.attribution{
+    font-size: 10px;
+    text-align: center;
+    float: center;
+    align-items: baseline;
+}
