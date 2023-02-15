@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [FrontendMentor.io](https://www.frontendmentor.io/solutions/html5-and-css3-adjustment-UCDgolJgqv)
-- Live Site URL: [GitHubPages](https://gielth.github.io/FrontendMentor-QR-Code/)
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
@@ -38,7 +38,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I learned very little on doing this one, I mainly select it due to working on improving my usage of html and css on my learning process as a whole. the main thing is that I used flexboxes and object-position.
+So, when i learned HTML5 and CSS3, a lot of things passed by such as different uses of displays, different types of units of measures (px, rem, %, vh...) and so, first time I did, i solved, but due to some feedback, I've improved on my knowledge on the use of css, also, it was the first time I used the CSS grid, it's interesting, I know I can improve on it if I took the time, but I believe it's good for now, and I want to get to others challenges on the FEM.
 
 ## Author
 

@@ -1,27 +1,23 @@
 body{
     background: hsl(212, 45%, 89%);
-    display: flexbox;
-    object-position: center;
     font-size: 15px;
-    width: fit-content;
-    margin: auto;
+    min-height: 100vh;
+    display: grid;
+    place-content: center;
 }
 
-#QRcodeStructure {
-    display: flexbox;
-    object-position: center;
+main {
     background: hsl(0, 0%, 100%);
     border: 1px solid hsl(0, 0%, 100%);
     border-radius: 15px;
-    width: 275px;
-    min-height: 375px;
-    margin-top: 50%;
-    margin-bottom: 50%;
+    max-width: 20rem;
+    display: grid;
+    place-content: center;
 }
 
 .QRcodeimg{
-    border-radius: 10%;
-    width: 90%;
+    border-radius: 7%;
+    width: 92%;
     padding: 12px;
 }
 
